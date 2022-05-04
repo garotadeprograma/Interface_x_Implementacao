@@ -1,0 +1,12 @@
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\bin\Debug\net6.0\Pessoa.Model.deps.json
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\bin\Debug\net6.0\Pessoa.Model.dll
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\bin\Debug\net6.0\Pessoa.Model.pdb
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\obj\Debug\net6.0\Pessoa.Model.csproj.AssemblyReference.cache
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\obj\Debug\net6.0\Pessoa.Model.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\obj\Debug\net6.0\Pessoa.Model.AssemblyInfoInputs.cache
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\obj\Debug\net6.0\Pessoa.Model.AssemblyInfo.cs
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\obj\Debug\net6.0\Pessoa.Model.csproj.CoreCompileInputs.cache
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\obj\Debug\net6.0\Pessoa.Model.dll
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\obj\Debug\net6.0\refint\Pessoa.Model.dll
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\obj\Debug\net6.0\Pessoa.Model.pdb
+c:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Interface_x_Implementacao\CadastroPessoaSimples\Pessoa.Model\obj\Debug\net6.0\ref\Pessoa.Model.dll
