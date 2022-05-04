@@ -1,3 +1,5 @@
+namespace Pessoa.Model;
+
 public interface IPessoa {
     #region Properties
 
