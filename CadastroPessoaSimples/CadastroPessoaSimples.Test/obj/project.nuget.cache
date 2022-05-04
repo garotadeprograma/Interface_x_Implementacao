@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NshxBORVk5MqMoUuJ53T56y7ZSVWMoHQkDgnSFPi0a8NiS7aTh3l6ri96Q6Yig32MXXZAEFYXBAznK0KTEE3Gw==",
+  "dgSpecHash": "GLDu/evzFAAdcbW6KzqLO6Do9WsGt46b4K7Ml3/bqEUj6fcGZwYlk2oYEg2KHIT4JwaRDy7SRgsnKTMyhAffPQ==",
   "success": true,
-  "projectFilePath": "c:\\Projetos_Estudos\\Desenvolvedor_io\\Fundamentos de Arquitetura de Software\\OOP\\Interface_x_Implementacao\\CadastroPessoaSimples\\CadastroPessoaSimples.Test\\CadastroPessoaSimples.Test.csproj",
+  "projectFilePath": "C:\\Projetos_Estudos\\Desenvolvedor_io\\Fundamentos de Arquitetura de Software\\OOP\\Interface_x_Implementacao\\CadastroPessoaSimples\\CadastroPessoaSimples.Test\\CadastroPessoaSimples.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acsil\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\acsil\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

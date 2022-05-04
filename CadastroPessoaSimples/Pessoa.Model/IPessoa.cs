@@ -14,11 +14,7 @@ public interface IPessoa {
     #region Methods
         IEnumerable<IPessoa> ListarPessoas();
 
-        IPessoa BuscarPorNome(string nome);
-
-        IEnumerable<IPessoa> ListarPessoasPorFuncao(FuncaoEnum funcao);
-
-        void AdicionarPessoa(IPessoa pessoa);
+        IEnumerable<IPessoa> AdicionarPessoa(IPessoa pessoa);
     #endregion
 
 }

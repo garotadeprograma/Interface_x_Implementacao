@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pessoa.Model", "Pessoa.Mode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroPessoaSimples.Test", "CadastroPessoaSimples.Test\CadastroPessoaSimples.Test.csproj", "{37E4FD59-3918-4C9E-81CC-B87AA03B665C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroSimples.APP", "CadastroSimples.APP\CadastroSimples.APP.csproj", "{BE38FBF3-8E43-49BA-B3BB-AB767800730C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
