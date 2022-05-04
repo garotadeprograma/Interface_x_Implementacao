@@ -82,7 +82,7 @@ public class CadastroPessoaSimplesTest
             // When
                 var resutl = addPessoa.AdicionarPessoa(cliente);
             // Then
-            Assert.False(resutl, "Lista não populada");
+            Assert.False(resutl, "Erro construtor");
         }
 
         [Fact]
@@ -94,7 +94,7 @@ public class CadastroPessoaSimplesTest
             // When
                 var resutl = addPessoa.AdicionarPessoa(cliente);
             // Then
-            Assert.False(resutl, "Lista não populada");
+            Assert.False(resutl, "Valor construtor falso");
         }
 
         /*Utilizando a classe OperacoesCadastro, não interessa pra classe que está implementando se o obj é Cliente ou funcionário
